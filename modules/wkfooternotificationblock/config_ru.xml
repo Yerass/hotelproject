@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>wkfooternotificationblock</name>
+	<displayName><![CDATA[Подписка на нижний колонтитул и социальный блок]]></displayName>
+	<version><![CDATA[1.0.2]]></version>
+	<description><![CDATA[Отображение блока &laquo;Подписка&raquo; и &laquo;Социальные сети&raquo; в нижнем колонтитуле.]]></description>
+	<author><![CDATA[Webkul]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

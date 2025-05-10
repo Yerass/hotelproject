@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>hotelreservationsystem</name>
+	<displayName><![CDATA[Система бронирования и резервирования отелей]]></displayName>
+	<version><![CDATA[1.6.0]]></version>
+	<description><![CDATA[Этот модуль является основой QloApps и обрабатывает все процессы бронирования на вашем сайте.]]></description>
+	<author><![CDATA[Webkul]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Этот модуль не следует удалять ни при каких обстоятельствах. Это может привести к нежелательным результатам.]]></confirmUninstall>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
